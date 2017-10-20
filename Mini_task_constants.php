@@ -5,7 +5,7 @@
 <?php
 define("Hello", "Lucy Pieren, Animation");
 echo Hello;
-echo "<br>"
+echo "<br>";
 $age = 18;
 echo "My age add five years is: ";
 ?>
